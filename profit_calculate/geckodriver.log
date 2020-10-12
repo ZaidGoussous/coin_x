@@ -1,0 +1,961 @@
+1600763073517	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\tochka\\AppData\\Local\\Temp\\rust_mozprofilevjnG9g"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1600763076638	Marionette	INFO	Listening on port 62560
+1600763076692	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1_03cBvoBNT0he2HFJgLMT3GhFwSFAX6UTdHR299Cnk.js line 1 > eval line 4704 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1_03cBvoBNT0he2HFJgLMT3GhFwSFAX6UTdHR299Cnk.js line 1 > eval line 4704 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1600763097115	Marionette	INFO	Stopped listening on port 62560
+1600763101517	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\tochka\\AppData\\Local\\Temp\\rust_mozprofilendL0Lm"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1600763103878	Marionette	INFO	Listening on port 62704
+1600763104133	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1600763112826	Marionette	INFO	Stopped listening on port 62704
+1600763117103	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\tochka\\AppData\\Local\\Temp\\rust_mozprofileOb0vJ4"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1600763121889	Marionette	INFO	Listening on port 62846
+1600763122336	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1600763130794	Marionette	INFO	Stopped listening on port 62846
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1_03cBvoBNT0he2HFJgLMT3GhFwSFAX6UTdHR299Cnk.js line 1 > eval line 6055 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1_03cBvoBNT0he2HFJgLMT3GhFwSFAX6UTdHR299Cnk.js line 1 > eval line 6055 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1600763135170	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\tochka\\AppData\\Local\\Temp\\rust_mozprofilePgmEzt"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1600763137126	Marionette	INFO	Listening on port 62980
+1600763137193	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1600763144174	Marionette	INFO	Stopped listening on port 62980
+1600763148175	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\tochka\\AppData\\Local\\Temp\\rust_mozprofileq3PQFR"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1600763150131	Marionette	INFO	Listening on port 63120
+1600763150200	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1600763161048	Marionette	INFO	Stopped listening on port 63120
+1600763337595	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\tochka\\AppData\\Local\\Temp\\rust_mozprofile5B4oJQ"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1600763339572	Marionette	INFO	Listening on port 63294
+1600763339607	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1600763347297	Marionette	INFO	Stopped listening on port 63294
+1600763423259	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\tochka\\AppData\\Local\\Temp\\rust_mozprofile99hvN6"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1600763425374	Marionette	INFO	Listening on port 63422
+1600763425890	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1_03cBvoBNT0he2HFJgLMT3GhFwSFAX6UTdHR299Cnk.js line 1 > eval line 2825 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1_03cBvoBNT0he2HFJgLMT3GhFwSFAX6UTdHR299Cnk.js line 1 > eval line 2825 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1600763435326	Marionette	INFO	Stopped listening on port 63422
+1600763452854	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\tochka\\AppData\\Local\\Temp\\rust_mozprofileKn2roA"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1600763454906	Marionette	INFO	Listening on port 63560
+1600763454973	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1_03cBvoBNT0he2HFJgLMT3GhFwSFAX6UTdHR299Cnk.js line 1 > eval line 7743 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1_03cBvoBNT0he2HFJgLMT3GhFwSFAX6UTdHR299Cnk.js line 1 > eval line 7743 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1600763462572	Marionette	INFO	Stopped listening on port 63560
+1601138814212	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\tochka\\AppData\\Local\\Temp\\rust_mozprofileL3r0UF"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1601138816561	Marionette	INFO	Listening on port 57137
+1601138816884	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LfFQ5hcFG3hXPsOLdOnrUHUTGTSsMRvOgIlCDTigNb8.js line 1 > eval line 4649 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LfFQ5hcFG3hXPsOLdOnrUHUTGTSsMRvOgIlCDTigNb8.js line 1 > eval line 4649 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1601138902184	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\tochka\\AppData\\Local\\Temp\\rust_mozprofileN3ynu7"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1601138905550	Marionette	INFO	Listening on port 57309
+1601138905870	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1601138921027	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\tochka\\AppData\\Local\\Temp\\rust_mozprofileYEgExa"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1601138924244	Marionette	INFO	Listening on port 57450
+1601138924330	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LfFQ5hcFG3hXPsOLdOnrUHUTGTSsMRvOgIlCDTigNb8.js line 1 > eval line 2903 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LfFQ5hcFG3hXPsOLdOnrUHUTGTSsMRvOgIlCDTigNb8.js line 1 > eval line 2903 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1601138948245	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\tochka\\AppData\\Local\\Temp\\rust_mozprofilexs92gO"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1601138950416	Marionette	INFO	Listening on port 57587
+1601138950902	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LfFQ5hcFG3hXPsOLdOnrUHUTGTSsMRvOgIlCDTigNb8.js line 1 > eval line 5790 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LfFQ5hcFG3hXPsOLdOnrUHUTGTSsMRvOgIlCDTigNb8.js line 1 > eval line 5790 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1601139112816	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\tochka\\AppData\\Local\\Temp\\rust_mozprofilec2cgT2"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1601139116135	Marionette	INFO	Listening on port 57811
+1601139116174	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LfFQ5hcFG3hXPsOLdOnrUHUTGTSsMRvOgIlCDTigNb8.js line 1 > eval line 586 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LfFQ5hcFG3hXPsOLdOnrUHUTGTSsMRvOgIlCDTigNb8.js line 1 > eval line 586 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1601139137678	Marionette	INFO	Stopped listening on port 57811
+1601139296872	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\tochka\\AppData\\Local\\Temp\\rust_mozprofilev33Rle"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1601139298627	Marionette	INFO	Listening on port 58048
+1601139298918	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LfFQ5hcFG3hXPsOLdOnrUHUTGTSsMRvOgIlCDTigNb8.js line 1 > eval line 2062 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LfFQ5hcFG3hXPsOLdOnrUHUTGTSsMRvOgIlCDTigNb8.js line 1 > eval line 2062 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1601139365750	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\tochka\\AppData\\Local\\Temp\\rust_mozprofileHBLkkd"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1601139367396	Marionette	INFO	Listening on port 58232
+1601139367790	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LfFQ5hcFG3hXPsOLdOnrUHUTGTSsMRvOgIlCDTigNb8.js line 1 > eval line 6491 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LfFQ5hcFG3hXPsOLdOnrUHUTGTSsMRvOgIlCDTigNb8.js line 1 > eval line 6491 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1601139394112	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\tochka\\AppData\\Local\\Temp\\rust_mozprofileF87UQX"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1601139396514	Marionette	INFO	Listening on port 58393
+1601139396781	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LfFQ5hcFG3hXPsOLdOnrUHUTGTSsMRvOgIlCDTigNb8.js line 1 > eval line 3000 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LfFQ5hcFG3hXPsOLdOnrUHUTGTSsMRvOgIlCDTigNb8.js line 1 > eval line 3000 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1601139440767	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\tochka\\AppData\\Local\\Temp\\rust_mozprofileAfe21a"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1601139442931	Marionette	INFO	Listening on port 58568
+1601139443428	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LfFQ5hcFG3hXPsOLdOnrUHUTGTSsMRvOgIlCDTigNb8.js line 1 > eval line 2062 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LfFQ5hcFG3hXPsOLdOnrUHUTGTSsMRvOgIlCDTigNb8.js line 1 > eval line 2062 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1601139499796	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\tochka\\AppData\\Local\\Temp\\rust_mozprofilekOz2xJ"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1601139503083	Marionette	INFO	Listening on port 58743
+1601139503106	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LfFQ5hcFG3hXPsOLdOnrUHUTGTSsMRvOgIlCDTigNb8.js line 1 > eval line 4507 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LfFQ5hcFG3hXPsOLdOnrUHUTGTSsMRvOgIlCDTigNb8.js line 1 > eval line 4507 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1601139535454	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\tochka\\AppData\\Local\\Temp\\rust_mozprofileJ6brnm"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1601139537958	Marionette	INFO	Listening on port 58907
+1601139538113	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LfFQ5hcFG3hXPsOLdOnrUHUTGTSsMRvOgIlCDTigNb8.js line 1 > eval line 4013 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LfFQ5hcFG3hXPsOLdOnrUHUTGTSsMRvOgIlCDTigNb8.js line 1 > eval line 4013 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1601139557170	Marionette	INFO	Stopped listening on port 58907
+1601139563633	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\tochka\\AppData\\Local\\Temp\\rust_mozprofilehAzrQ4"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1601139565678	Marionette	INFO	Listening on port 59062
+1601139565684	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1601139579555	Marionette	INFO	Stopped listening on port 59062
+1601139602321	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\tochka\\AppData\\Local\\Temp\\rust_mozprofileDvtHPf"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1601139604613	Marionette	INFO	Listening on port 59202
+1601139604984	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LfFQ5hcFG3hXPsOLdOnrUHUTGTSsMRvOgIlCDTigNb8.js line 1 > eval line 6607 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LfFQ5hcFG3hXPsOLdOnrUHUTGTSsMRvOgIlCDTigNb8.js line 1 > eval line 6607 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1601139639712	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\tochka\\AppData\\Local\\Temp\\rust_mozprofile5sMML6"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1601139642309	Marionette	INFO	Listening on port 59365
+1601139642363	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1601139655961	Marionette	INFO	Stopped listening on port 59365
+1601139696390	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\tochka\\AppData\\Local\\Temp\\rust_mozprofiletfHUtb"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1601139698047	Marionette	INFO	Listening on port 59523
+1601139698424	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1601139709285	Marionette	INFO	Stopped listening on port 59523
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1601139739651	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\tochka\\AppData\\Local\\Temp\\rust_mozprofilewFK9Lz"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1601139742446	Marionette	INFO	Listening on port 59674
+1601139742839	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LfFQ5hcFG3hXPsOLdOnrUHUTGTSsMRvOgIlCDTigNb8.js line 1 > eval line 2293 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LfFQ5hcFG3hXPsOLdOnrUHUTGTSsMRvOgIlCDTigNb8.js line 1 > eval line 2293 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1601139755422	Marionette	INFO	Stopped listening on port 59674
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1601139801920	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\tochka\\AppData\\Local\\Temp\\rust_mozprofileemnp9U"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1601139803756	Marionette	INFO	Listening on port 59825
+1601139803960	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1601139817681	Marionette	INFO	Stopped listening on port 59825
+1601139822434	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\tochka\\AppData\\Local\\Temp\\rust_mozprofile3KPaNv"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1601139825337	Marionette	INFO	Listening on port 59972
+1601139825806	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1601139841594	Marionette	INFO	Stopped listening on port 59972
+1601139954638	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\tochka\\AppData\\Local\\Temp\\rust_mozprofile0Gk5R4"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1601139956840	Marionette	INFO	Listening on port 60175
+1601139957296	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1601139973000	Marionette	INFO	Stopped listening on port 60175
+1601139990647	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\tochka\\AppData\\Local\\Temp\\rust_mozprofileciWYVj"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1601139993118	Marionette	INFO	Listening on port 60329
+1601139993289	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1601140009448	Marionette	INFO	Stopped listening on port 60329
+1601140109771	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\tochka\\AppData\\Local\\Temp\\rust_mozprofileMtRZyL"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1601140112008	Marionette	INFO	Listening on port 60535
+1601140112432	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1601140126844	Marionette	INFO	Stopped listening on port 60535
+1601140232880	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\tochka\\AppData\\Local\\Temp\\rust_mozprofiler095re"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1601140236114	Marionette	INFO	Listening on port 60727
+1601140236550	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1601140251794	Marionette	INFO	Stopped listening on port 60727
+1601140348566	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\tochka\\AppData\\Local\\Temp\\rust_mozprofilenbFXni"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1601140350900	Marionette	INFO	Listening on port 60926
+1601140351209	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1601140367965	Marionette	INFO	Stopped listening on port 60926
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LfFQ5hcFG3hXPsOLdOnrUHUTGTSsMRvOgIlCDTigNb8.js line 1 > eval line 497 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LfFQ5hcFG3hXPsOLdOnrUHUTGTSsMRvOgIlCDTigNb8.js line 1 > eval line 497 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1601140390287	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\tochka\\AppData\\Local\\Temp\\rust_mozprofileb0fM5C"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1601140392541	Marionette	INFO	Listening on port 61081
+1601140392980	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LfFQ5hcFG3hXPsOLdOnrUHUTGTSsMRvOgIlCDTigNb8.js line 1 > eval line 5590 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LfFQ5hcFG3hXPsOLdOnrUHUTGTSsMRvOgIlCDTigNb8.js line 1 > eval line 5590 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1601140407864	Marionette	INFO	Stopped listening on port 61081
+1601140438958	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\tochka\\AppData\\Local\\Temp\\rust_mozprofileZcbEMz"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1601140441351	Marionette	INFO	Listening on port 61248
+1601140441609	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1601140457342	Marionette	INFO	Stopped listening on port 61248
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x39012D,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+1601140481769	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\tochka\\AppData\\Local\\Temp\\rust_mozprofile4w56uH"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1601140484133	Marionette	INFO	Listening on port 61405
+1601140484410	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1601140498022	Marionette	INFO	Stopped listening on port 61405
+1601140723165	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\tochka\\AppData\\Local\\Temp\\rust_mozprofileAQuhxS"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1601140725118	Marionette	INFO	Listening on port 61664
+1601140725209	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1601140738940	Marionette	INFO	Stopped listening on port 61664
+1601140781532	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\tochka\\AppData\\Local\\Temp\\rust_mozprofilemJ73ES"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1601140783858	Marionette	INFO	Listening on port 61831
+1601140784186	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1601140817205	Marionette	INFO	Stopped listening on port 61831
+1601140958020	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\tochka\\AppData\\Local\\Temp\\rust_mozprofile5Ci7Vd"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1601140959860	Marionette	INFO	Listening on port 62058
+1601140960065	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LfFQ5hcFG3hXPsOLdOnrUHUTGTSsMRvOgIlCDTigNb8.js line 1 > eval line 7099 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LfFQ5hcFG3hXPsOLdOnrUHUTGTSsMRvOgIlCDTigNb8.js line 1 > eval line 7099 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1601140972526	Marionette	INFO	Stopped listening on port 62058
+1601141035676	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\tochka\\AppData\\Local\\Temp\\rust_mozprofileRhRhA9"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1601141037623	Marionette	INFO	Listening on port 62229
+1601141037730	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1601141049566	Marionette	INFO	Stopped listening on port 62229
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LfFQ5hcFG3hXPsOLdOnrUHUTGTSsMRvOgIlCDTigNb8.js line 1 > eval line 4913 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LfFQ5hcFG3hXPsOLdOnrUHUTGTSsMRvOgIlCDTigNb8.js line 1 > eval line 4913 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1601141095088	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\tochka\\AppData\\Local\\Temp\\rust_mozprofileZLedO6"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1601141097343	Marionette	INFO	Listening on port 62389
+1601141097760	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1601141110965	Marionette	INFO	Stopped listening on port 62389
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x39012D,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+1601141139212	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\tochka\\AppData\\Local\\Temp\\rust_mozprofileFfq72x"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1601141141726	Marionette	INFO	Listening on port 62550
+1601141141893	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1601141158216	Marionette	INFO	Stopped listening on port 62550
+1601141193294	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\tochka\\AppData\\Local\\Temp\\rust_mozprofileaomPyV"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1601141195200	Marionette	INFO	Listening on port 62715
+1601141195329	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1601141209127	Marionette	INFO	Stopped listening on port 62715
+1601141251564	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\tochka\\AppData\\Local\\Temp\\rust_mozprofile2X7Ph0"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1601141254632	Marionette	INFO	Listening on port 62873
+1601141254721	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1601141268861	Marionette	INFO	Stopped listening on port 62873
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LfFQ5hcFG3hXPsOLdOnrUHUTGTSsMRvOgIlCDTigNb8.js line 1 > eval line 4459 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LfFQ5hcFG3hXPsOLdOnrUHUTGTSsMRvOgIlCDTigNb8.js line 1 > eval line 4459 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1601141351604	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\tochka\\AppData\\Local\\Temp\\rust_mozprofilenqZKnO"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1601141353471	Marionette	INFO	Listening on port 63070
+1601141353643	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1601141365935	Marionette	INFO	Stopped listening on port 63070
+1601141435298	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\tochka\\AppData\\Local\\Temp\\rust_mozprofile60dbyg"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1601141437400	Marionette	INFO	Listening on port 63254
+1601141437456	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: chrome://marionette/content/proxy.js, line 222: TypeError: this.browser.driver.dialogObserver is null
+1601141453299	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\tochka\\AppData\\Local\\Temp\\rust_mozprofileGJMWeh"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1601141456162	Marionette	INFO	Listening on port 63418
+1601141456504	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1601141474777	Marionette	INFO	Stopped listening on port 63418
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LfFQ5hcFG3hXPsOLdOnrUHUTGTSsMRvOgIlCDTigNb8.js line 1 > eval line 4261 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LfFQ5hcFG3hXPsOLdOnrUHUTGTSsMRvOgIlCDTigNb8.js line 1 > eval line 4261 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1601141520064	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\tochka\\AppData\\Local\\Temp\\rust_mozprofilenyMj3z"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1601141521999	Marionette	INFO	Listening on port 63587
+1601141522115	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1601141531915	Marionette	INFO	Stopped listening on port 63587
+1601141790207	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\tochka\\AppData\\Local\\Temp\\rust_mozprofileWu3I3o"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1601141792630	Marionette	INFO	Listening on port 63856
+1601141792860	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1601141809612	Marionette	INFO	Stopped listening on port 63856
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LfFQ5hcFG3hXPsOLdOnrUHUTGTSsMRvOgIlCDTigNb8.js line 1 > eval line 140 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LfFQ5hcFG3hXPsOLdOnrUHUTGTSsMRvOgIlCDTigNb8.js line 1 > eval line 140 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1601141857314	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\tochka\\AppData\\Local\\Temp\\rust_mozprofileGJcSAe"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1601141859714	Marionette	INFO	Listening on port 64017
+1601141859980	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1601141876066	Marionette	INFO	Stopped listening on port 64017
+1601337920770	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\tochka\\AppData\\Local\\Temp\\rust_mozprofilezyykjo"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1601337923538	Marionette	INFO	Listening on port 56074
+1601337923962	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://aufp.io/api/v1/fp, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1601337937124	Marionette	INFO	Stopped listening on port 56074
